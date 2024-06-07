@@ -1,0 +1,101 @@
+[
+  {
+    "dcID": 1,
+    "siteName": "Global Switch Tai Seng",
+    "lat": 1.33749519653263,
+    "long": 103.89365580501642,
+    "location": "2 Tai Seng Avenue, S(534408)",
+    "local": true,
+    "numOfLinePorts": 1000,
+    "numOfClientPorts": 1000,
+    "portType": "SH"
+  },
+  {
+    "dcID": 2,
+    "siteName": "Global Switch Woodlands",
+    "lat": 1.4292200952349237,
+    "long": 103.79858389897616,
+    "location": "7 Woodlands Height, S(737858)",
+    "local": true,
+    "numOfLinePorts": 500,
+    "numOfClientPorts": 500,
+    "portType": "SH"
+  },
+  {
+    "dcID": 3,
+    "siteName": "Equinix SG 1",
+    "lat": 1.2935666083781023,
+    "long": 103.7870462295618,
+    "location": "Blk 20 Ayer Rajah Cresent S(139964)",
+    "local": true,
+    "numOfLinePorts": 500,
+    "numOfClientPorts": 500,
+    "portType": "SH"
+  },
+  {
+    "dcID": 4,
+    "siteName": "Equinix SG 2",
+    "lat": 1.3355229241416082,
+    "long": 103.68813302347726,
+    "location": "15 Pioneer Walk, S(627753)",
+    "local": true,
+    "numOfLinePorts": 1000,
+    "numOfClientPorts": 1000,
+    "portType": "SH"
+  },
+  {
+    "dcID": 5,
+    "siteName": "Equinix SG 3",
+    "lat": 1.3153811258374244,
+    "long": 103.79271221444193,
+    "location": "26A Ayer Rajah Crescent, S(139963)",
+    "local": true,
+    "numOfLinePorts": 500,
+    "numOfClientPorts": 500,
+    "portType": "SH"
+  },
+  {
+    "dcID": 6,
+    "siteName": "Equinix SG 5",
+    "lat": 1.3173172597113818,
+    "long": 103.70213199565843,
+    "location": "6 Sunview Dr, S(627488)",
+    "local": true,
+    "numOfLinePorts": 1000,
+    "numOfClientPorts": 1000,
+    "portType": "SH"
+  },
+  {
+    "dcID": 7,
+    "siteName": "NTT",
+    "lat": 1.3761344006913767,
+    "long": 103.87521281775774,
+    "location": "51 Serangoon North Ave 4, S(555858)",
+    "local": true,
+    "numOfLinePorts": 1000,
+    "numOfClientPorts": 1000,
+    "portType": "SH"
+  },
+  {
+    "dcID": 8,
+    "siteName": "DRT",
+    "lat": 1.3708762593315837,
+    "long": 103.96839293963866,
+    "location": "3 Loyang Way, S(508719)",
+    "local": true,
+    "numOfLinePorts": 1000,
+    "numOfClientPorts": 1000,
+    "portType": "SH"
+  },
+  {
+    "dcID": 9,
+    "siteName": "STT MediaHub",
+    "lat": 1.2922499435429915,
+    "long": 103.81070915678231,
+    "location": "1 Media Link, S(138552)",
+    "local": true,
+    "numOfLinePorts": 1000,
+    "numOfClientPorts": 1000,
+    "portType": "SH"
+  }
+]
